@@ -30,17 +30,17 @@ The Library Management System is a simple application that allows users to manag
 
 2. **Navigate to the Project Directory**: 
    ```bash
-   cd library-management-system
+   cd library-management-system/src
    ```
 
 3. **Compile the Java Files**:
    ```bash
-   javac Main.java
+   javac App.java
    ```
 
 4. **Run the Application**: 
    ```bash
-   java Main
+   java App
    ```
 
 ## How to Use
